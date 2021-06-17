@@ -10,7 +10,7 @@ I'm Alihussain Ladiwala a Full Stack Web Developer. I Spend most of time coding 
 
 - 🔭 I’m currently studying at @San Jose state Univerisity
 - :computer: Most used line of code `npm start`
-- 🤔 I’m looking for help with summer preoject ideas.
+- 🤔 I’m looking for help with summer project ideas.
 - 📫 How to reach me: alihussainladiwala@gmail.com.
 - 😄 Pronouns: Ali, Alihussain.
 - ⚡ Fun fact: I love to watch anime and play PC games.
