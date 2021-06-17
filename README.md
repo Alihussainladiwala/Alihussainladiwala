@@ -43,6 +43,9 @@ I enjoy coding and sharing my knowledge about coding with my peers. I love exper
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
