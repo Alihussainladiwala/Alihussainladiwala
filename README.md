@@ -44,7 +44,8 @@ I enjoy coding and sharing my knowledge about coding with my peers. I love exper
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   23 mins         ███████████████████▒░░░░░   77.36 % 
+YAML       6 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.26 % 
 ```
 <!--END_SECTION:waka-->
 
