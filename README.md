@@ -44,9 +44,9 @@ I enjoy coding and sharing my knowledge about coding with my peers. I love exper
 
 <!--START_SECTION:waka-->
 ```text
-HTML             56 mins         ██████████████████▒░░░░░░   72.79 % 
-XML              10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-SCSS             10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+HTML             1 hr 15 mins    █████████████▒░░░░░░░░░░░   53.81 % 
+SCSS             53 mins         █████████▒░░░░░░░░░░░░░░░   37.81 % 
+XML              11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 ```
 <!--END_SECTION:waka-->
 
