@@ -44,7 +44,8 @@ I enjoy coding and sharing my knowledge about coding with my peers. I love exper
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   1 hr 14 mins    █████████████████▒░░░░░░░   69.66 % 
+HTML         31 mins         ███████▒░░░░░░░░░░░░░░░░░   29.92 % 
 ```
 <!--END_SECTION:waka-->
 
