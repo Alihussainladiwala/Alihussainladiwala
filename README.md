@@ -44,8 +44,8 @@ I enjoy coding and sharing my knowledge about coding with my peers. I love exper
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 38 mins   ███████████████████▓░░░░░   79.20 % 
-CSS          57 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
+JavaScript   4 hrs 31 mins   ████████████████████▓░░░░   82.56 % 
+CSS          57 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.44 % 
 ```
 <!--END_SECTION:waka-->
 
