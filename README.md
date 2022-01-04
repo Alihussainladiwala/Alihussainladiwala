@@ -23,7 +23,7 @@ I'm Alihussain Ladiwala a Full Stack Web Developer. I Spend most of time coding 
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://gist.github.com/Alihussainladiwala/8e3320bb58dba39c19a7ef99687c344b)
+- :paperclip: [My Resume/CV](https://gist.github.com/Alihussainladiwala/853bcd131b8be4f2cd37a3012bc15176)
 - :email: alihussainladiwala@gmail.com
 
 
