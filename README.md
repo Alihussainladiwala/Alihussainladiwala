@@ -12,7 +12,7 @@ I'm Alihussain Ladiwala a Full Stack Web Developer. I Spend most of time coding 
 - :computer: Most used line of code `npm start`
 - 🤔 I’m looking for help with summer project ideas.
 - 📫 How to reach me: alihussainladiwala@gmail.com.
-- 😄 Pronouns: Ali, Alihussain.
+- 😄 Pronouns: He,Him.
 - ⚡ Fun fact: I love to watch anime and play PC games.
 
 #### Top Technologies
